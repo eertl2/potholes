@@ -10,9 +10,9 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Eric Ertl # author name
+  name: CS639 Vision Project # author name
   bio: >- # tell to the world
-    Hi I'm Eric! I am currently attending University of Wisconsin-Madison for Computer Science. <a href="https://github.com/eertl2" target="_blank" rel="noopener">@github</a>.
+    Our CS639 Vision Project
   username: eertl2 # general username
   github: eertl2 # github username
   twitter: twitter_username # twitter username
