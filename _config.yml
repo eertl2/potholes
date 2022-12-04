@@ -1,7 +1,7 @@
 # Site settings
 title: CS639 Vision Project # site title
 description: >- # site description
-  Hi I'm Eric! I am currently attending University of Wisconsin-Madison for Computer Science. <a href="https://github.com/eertl2" target="_blank" rel="noopener">@github</a>.
+  Our CS639 Vision Project
 lang: en-US # default lang
 timezone: America/Chicago # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/

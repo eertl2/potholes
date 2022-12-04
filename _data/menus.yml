@@ -1,14 +1,14 @@
 - title: home
-  url: /
+  url: /potholes/
   external: false
 
 - title: about
-  url: /about/
+  url: /potholes/about/
   external: false
 
-- title: resume
-  url: /resume/Eric_Ertl_Resume.pdf
-  external: false
+# - title: resume
+#   url: /resume/Eric_Ertl_Resume.pdf
+#   external: false
 
 # Example:
 # - title: github
