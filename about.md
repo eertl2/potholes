@@ -9,3 +9,6 @@ comments: false
 ---
 
 potholes
+
+![SSD Model](/assets/img/SSD%20Model.PNG)
+
