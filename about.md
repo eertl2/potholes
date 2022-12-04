@@ -1,7 +1,7 @@
 ---
 title: CS639 Potholes
-permalink: /about/
-layout: pagejs
+permalink: /
+layout: page
 excerpt: Potholes are bad
 customjs:
  - http://yourdomain.com/yourscript.js

@@ -1,9 +1,9 @@
-- title: home
-  url: /potholes/
-  external: false
+# - title: home
+#   url: /potholes/
+#   external: false
 
-- title: about
-  url: /potholes/about/
+- title: Potholes
+  url: /potholes/
   external: false
 
 # - title: resume
