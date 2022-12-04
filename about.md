@@ -1,6 +1,6 @@
 ---
 title: CS639 Potholes
-permalink: /
+permalink: /about/
 layout: page
 excerpt: Potholes are bad
 customjs:
