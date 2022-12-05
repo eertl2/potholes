@@ -4,7 +4,7 @@ permalink: /about/
 layout: page
 excerpt: Potholes are bad
 customjs:
- - http://yourdomain.com/yourscript.js
+ - http://ericertl.dev/
 comments: false
 ---
 
