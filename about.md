@@ -10,5 +10,5 @@ comments: false
 
 potholes
 
-![SSD Model](/assets/img/SSD%20Model.PNG)
+![Pothole img](https://www.cityworks.com/wp-content/uploads/2020/01/pot-hole-blog.gif)
 
